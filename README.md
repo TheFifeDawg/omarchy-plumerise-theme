@@ -1,0 +1,84 @@
+# plumerise
+
+a neon sunset launch over the atlantic: violet-plum glass, blush-white type, a neon cyan accent, hot pink and tangerine skies
+
+![preview](previews/preview.jpg)
+
+## Palette
+
+| Key | Value |
+|-----|-------|
+| `mode` | `dark` |
+| `accent` | `#6ff0f4` |
+| `selection` | `#6c3c88` |
+| `muted` | `#e8c4dc` |
+| `background` | `#5a3070` |
+| `dark_background` | `#4e2862` |
+| `darker_background` | `#422254` |
+| `lighter_background` | `#683a80` |
+| `foreground` | `#fff2f8` |
+| `dark_foreground` | `#e8c4dc` |
+| `light_foreground` | `#fff6fa` |
+| `bright_foreground` | `#fffafc` |
+
+Full `colors.toml`:
+
+```toml
+mode = "dark"
+
+accent = "#6ff0f4"
+selection = "#6c3c88"
+muted = "#e8c4dc"
+
+background = "#5a3070"
+dark_background = "#4e2862"
+darker_background = "#422254"
+lighter_background = "#683a80"
+
+foreground = "#fff2f8"
+dark_foreground = "#e8c4dc"
+light_foreground = "#fff6fa"
+bright_foreground = "#fffafc"
+
+red = "#ff8a9a"
+yellow = "#ffd27a"
+orange = "#ffb070"
+green = "#a8f0b0"
+cyan = "#6ff0f4"
+blue = "#9ac8ff"
+magenta = "#ff8ac8"
+brown = "#e0a888"
+
+bright_red = "#ffaab4"
+bright_yellow = "#ffe2a4"
+bright_green = "#c4f6c8"
+bright_cyan = "#a4f6f8"
+bright_blue = "#bcdcff"
+bright_magenta = "#ffaed8"
+```
+
+## Install
+
+Paste this URL into Omalauncher's theme install:
+
+https://github.com/TheFifeDawg/omarchy-plumerise-theme
+
+On an Omarchy laptop: **Install > Style > Theme**, paste the same URL.
+
+## Wallpapers
+
+The three wallpapers are AI-generated original art:
+
+- `1-plumeblaze.jpg` — a hot pink to tangerine sunset, a big sun disc behind the plume, palm islets and teal water
+- `2-lagoonrise.jpg` — an aqua-to-pink dawn over a turquoise lagoon, framed by violet palms
+- `3-violetdusk.jpg` — a violet twilight with stars and a crescent moon over cyan water
+
+They're sized 1848×2448 for the Samsung Galaxy Z Fold 8 inner screen and framed to center-crop cleanly to the cover screen (1248×1972).
+
+## Extras
+
+Includes a `btop.theme` built from Omarchy's template, so the palette carries over to btop on a laptop.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
